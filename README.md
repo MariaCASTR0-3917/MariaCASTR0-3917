@@ -9,7 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffa07a&height=55&section=header&width=300" width="800">
 
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byblis&layout=donut-vertical&bg_color=000000&title_color=f0f&text_color=f0f&height=300)](https://github.com/byblis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byblis&layout=donut-vertical&bg_color=000000&title_color=ff0000&text_color=f0f&height=300)](https://github.com/byblis/github-readme-stats)
  --> 
 
 <!--
@@ -18,6 +18,6 @@
 
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=MariaCASTR0-3917&theme=dark&background=000000&ring=FF0000&fire=FF0000&stroke=FF0000&currStreakLabel=FF0000&currStreakNum=FF0000&border=FF0000&sideLabels=FF0000&sideNums=FF0000&dates=FF0000)](https://git.io/streak-stats)
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/featured/featured-compatibility-betamax.svg)](https://forthebadge.com)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=713&pause=1000&color=FF0000&background=00000000&center=false&vCenter=true&multiline=true&random=false&width=800&height=90&lines=Seu+texto+personalizado+aqui)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=713&pause=1000&color=FF0000&background=00000000&center=false&vCenter=true&multiline=true&random=false&width=1200&height=90&lines=%22We+stand+at+the+dawn+of+a+new+era%2C+where+AI+and+the+charm+of+vintage+coexist.%22%0A-+Maria+Castro)](https://git.io/typing-svg)
